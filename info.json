@@ -1,9 +1,9 @@
 {"name":"Token Engineering Labs",
-"tokenSymbol":" ",
+"tokenSymbol":"",
 "DaoOS":"Snapshot",
 "address":"",
 "description":"Token Engineering Labs is a research, engineering, and consulting boutique that aims to support web3, token and blockchain projects in rigorous design of their system and token applications.Through the utilization of our high–grade token engineering & design methodologies, we assist teams to make well–informed design choicesfor their projects and help to mitigate risk of system failure.",
-"whitePaperLink":" ",
+"whitePaperLink":"",
 "gallery":[],
 "deleted":false,
 "primaryColor":"#65b5f6",
@@ -17,6 +17,6 @@
 "tokenDescription":"",
 "tokenTradeLink":"",
 
-"tags":["Focused Research", "Science DeFi", Ecosystems"]
+"tags":["Focused Research", "Science DeFi", "Ecosystems"]
   
 }
